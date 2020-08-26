@@ -1,0 +1,2272 @@
+‡ï÷˛S7
+4
+fpn
+cls_head
+box_head
+	optimizer
+ß
+backbone
+conv_c3_1x1
+conv_c4_1x1
+conv_c5_1x1
+	conv_c3_3x3
+
+conv_c4_3x3
+conv_c5_3x3
+conv_c6_3x3
+conv_c7_3x3
+upsample_2x
+˜
+layer_with_weights-0
+layer-0
+layer-1
+layer_with_weights-1
+layer-2
+layer-3
+layer_with_weights-2
+layer-4
+layer-5
+layer_with_weights-3
+layer-6
+layer-7
+layer_with_weights-4
+layer-8
+˜
+layer_with_weights-0
+layer-0
+layer-1
+layer_with_weights-1
+layer-2
+layer-3
+layer_with_weights-2
+layer-4
+layer-5
+layer_with_weights-3
+layer-6
+layer-7
+ layer_with_weights-4
+ layer-8
+∑#
+!
+loss_scale
+"base_optimizer
+#iter
+	$decay
+%momentum’momentumÓ÷momentumÔ◊momentumÿmomentumÒŸmomentumÚ⁄momentumÛ€momentumÙ‹momentumı›momentumˆﬁmomentum˜ﬂmomentum¯‡momentum˘·momentum˙‚momentum˚„momentum¸‰momentum˝Âmomentum˛ÊmomentumˇÁmomentumÄËmomentumÅÈmomentumÇÍmomentumÉÎmomentumÑÏmomentumÖÌmomentumÜÓmomentumáÔmomentumàmomentumâÒmomentumäÚmomentumãÛmomentumåÙmomentumçımomentuméˆmomentumè˜momentumê¯momentumë˚momentumí¸momentumì˛momentumîˇmomentumïÇmomentumñÉmomentumóÖmomentumòÜmomentumôâmomentumöämomentumõåmomentumúçmomentumùêmomentumûëmomentumüímomentum†ìmomentum°ïmomentum¢ñmomentum£ömomentum§õmomentum•ûmomentum¶ümomentumß°momentum®¢momentum©•momentum™¶momentum´®momentum¨©momentum≠¨momentumÆ≠momentumØØmomentum∞∞momentum±≥momentum≤¥momentum≥∂momentum¥∑momentumµ∫momentum∂ªmomentum∑Ωmomentum∏æmomentumπ¡momentum∫¬momentumªƒmomentumº≈momentumΩ»momentumæ…momentumøÀmomentum¿Ãmomentum¡œmomentum¬–momentum√“momentumƒ”momentum≈÷momentum∆◊momentum«ÿmomentum»Ÿmomentum…€momentum ‹momentumÀ‡momentumÃ·momentumÕ‰momentumŒÂmomentumœÁmomentum–Ëmomentum—Îmomentum“Ïmomentum”Ómomentum‘Ômomentum’Úmomentum÷Ûmomentum◊ımomentumÿˆmomentumŸ˘momentum⁄˙momentum€¸momentum‹˝momentum›ÄmomentumﬁÅmomentumﬂÉmomentum‡Ñmomentum·ámomentum‚àmomentum„ämomentum‰ãmomentumÂémomentumÊèmomentumÁëmomentumËímomentumÈïmomentumÍñmomentumÎòmomentumÏômomentumÌúmomentumÓùmomentumÔümomentum†momentumÒ£momentumÚ§momentumÛ¶momentumÙßmomentumı™momentumˆ´momentum˜≠momentum¯Æmomentum˘±momentum˙≤momentum˚≥momentum¸¥momentum˝∂momentum˛∑momentumˇªmomentumÄºmomentumÅømomentumÇ¿momentumÉ¬momentumÑ√momentumÖ∆momentumÜ«momentumá…momentumà momentumâÕmomentumäŒmomentumã–momentumå—momentumç‘momentumé’momentumè◊momentumêÿmomentumë€momentumí‹momentumìﬁmomentumîﬂmomentumï‚momentumñ„momentumóÂmomentumòÊmomentumôÈmomentumöÍmomentumõÏmomentumúÌmomentumùmomentumûÒmomentumüÛmomentum†Ùmomentum°˜momentum¢¯momentum£˙momentum§˚momentum•˛momentum¶ˇmomentumßÅmomentum®Çmomentum©Ömomentum™Ümomentum´àmomentum¨âmomentum≠åmomentumÆçmomentumØèmomentum∞êmomentum±ìmomentum≤îmomentum≥ñmomentum¥ómomentumµömomentum∂õmomentum∑ùmomentum∏ûmomentumπ°momentum∫¢momentumª§momentumº•momentumΩ®momentumæ©momentumø´momentum¿¨momentum¡Ømomentum¬∞momentum√≤momentumƒ≥momentum≈∂momentum∆∑momentum«∏momentum»πmomentum…ªmomentum ºmomentumÀ¿momentumÃ¡momentumÕƒmomentumŒ≈momentumœ«momentum–»momentum—Àmomentum“Ãmomentum”Œmomentum‘œmomentum’“momentum÷”momentum◊’momentumÿ÷momentumŸŸmomentum⁄⁄momentum€‹momentum‹›momentum›‡momentumﬁ·momentumﬂ„momentum‡‰momentum·Ámomentum‚Ëmomentum„Ímomentum‰ÎmomentumÂ
+Ö+
+&layer-0
+'layer-1
+(layer_with_weights-0
+(layer-2
+)layer_with_weights-1
+)layer-3
+*layer-4
++layer-5
+,layer-6
+-layer_with_weights-2
+-layer-7
+.layer_with_weights-3
+.layer-8
+/layer-9
+0layer_with_weights-4
+0layer-10
+1layer_with_weights-5
+1layer-11
+2layer-12
+3layer_with_weights-6
+3layer-13
+4layer_with_weights-7
+4layer-14
+5layer_with_weights-8
+5layer-15
+6layer_with_weights-9
+6layer-16
+7layer-17
+8layer-18
+9layer_with_weights-10
+9layer-19
+:layer_with_weights-11
+:layer-20
+;layer-21
+<layer_with_weights-12
+<layer-22
+=layer_with_weights-13
+=layer-23
+>layer-24
+?layer_with_weights-14
+?layer-25
+@layer_with_weights-15
+@layer-26
+Alayer-27
+Blayer-28
+Clayer_with_weights-16
+Clayer-29
+Dlayer_with_weights-17
+Dlayer-30
+Elayer-31
+Flayer_with_weights-18
+Flayer-32
+Glayer_with_weights-19
+Glayer-33
+Hlayer-34
+Ilayer_with_weights-20
+Ilayer-35
+Jlayer_with_weights-21
+Jlayer-36
+Klayer-37
+Llayer-38
+Mlayer_with_weights-22
+Mlayer-39
+Nlayer_with_weights-23
+Nlayer-40
+Olayer-41
+Player_with_weights-24
+Player-42
+Qlayer_with_weights-25
+Qlayer-43
+Rlayer-44
+Slayer_with_weights-26
+Slayer-45
+Tlayer_with_weights-27
+Tlayer-46
+Ulayer_with_weights-28
+Ulayer-47
+Vlayer_with_weights-29
+Vlayer-48
+Wlayer-49
+Xlayer-50
+Ylayer_with_weights-30
+Ylayer-51
+Zlayer_with_weights-31
+Zlayer-52
+[layer-53
+\layer_with_weights-32
+\layer-54
+]layer_with_weights-33
+]layer-55
+^layer-56
+_layer_with_weights-34
+_layer-57
+`layer_with_weights-35
+`layer-58
+alayer-59
+blayer-60
+clayer_with_weights-36
+clayer-61
+dlayer_with_weights-37
+dlayer-62
+elayer-63
+flayer_with_weights-38
+flayer-64
+glayer_with_weights-39
+glayer-65
+hlayer-66
+ilayer_with_weights-40
+ilayer-67
+jlayer_with_weights-41
+jlayer-68
+klayer-69
+llayer-70
+mlayer_with_weights-42
+mlayer-71
+nlayer_with_weights-43
+nlayer-72
+olayer-73
+player_with_weights-44
+player-74
+qlayer_with_weights-45
+qlayer-75
+rlayer-76
+slayer_with_weights-46
+slayer-77
+tlayer_with_weights-47
+tlayer-78
+ulayer-79
+vlayer-80
+wlayer_with_weights-48
+wlayer-81
+xlayer_with_weights-49
+xlayer-82
+ylayer-83
+zlayer_with_weights-50
+zlayer-84
+{layer_with_weights-51
+{layer-85
+|layer-86
+}layer_with_weights-52
+}layer-87
+~layer_with_weights-53
+~layer-88
+layer_with_weights-54
+layer-89
+Älayer_with_weights-55
+Älayer-90
+Ålayer-91
+Çlayer-92
+Élayer_with_weights-56
+Élayer-93
+Ñlayer_with_weights-57
+Ñlayer-94
+Ölayer-95
+Ülayer_with_weights-58
+Ülayer-96
+álayer_with_weights-59
+álayer-97
+àlayer-98
+âlayer_with_weights-60
+âlayer-99
+älayer_with_weights-61
+ä	layer-100
+ã	layer-101
+å	layer-102
+çlayer_with_weights-62
+ç	layer-103
+élayer_with_weights-63
+é	layer-104
+è	layer-105
+êlayer_with_weights-64
+ê	layer-106
+ëlayer_with_weights-65
+ë	layer-107
+í	layer-108
+ìlayer_with_weights-66
+ì	layer-109
+îlayer_with_weights-67
+î	layer-110
+ï	layer-111
+ñ	layer-112
+ólayer_with_weights-68
+ó	layer-113
+òlayer_with_weights-69
+ò	layer-114
+ô	layer-115
+ölayer_with_weights-70
+ö	layer-116
+õlayer_with_weights-71
+õ	layer-117
+ú	layer-118
+ùlayer_with_weights-72
+ù	layer-119
+ûlayer_with_weights-73
+û	layer-120
+ü	layer-121
+†	layer-122
+°layer_with_weights-74
+°	layer-123
+¢layer_with_weights-75
+¢	layer-124
+£	layer-125
+§layer_with_weights-76
+§	layer-126
+•layer_with_weights-77
+•	layer-127
+¶	layer-128
+ßlayer_with_weights-78
+ß	layer-129
+®layer_with_weights-79
+®	layer-130
+©	layer-131
+™	layer-132
+´layer_with_weights-80
+´	layer-133
+¨layer_with_weights-81
+¨	layer-134
+≠	layer-135
+Ælayer_with_weights-82
+Æ	layer-136
+Ølayer_with_weights-83
+Ø	layer-137
+∞	layer-138
+±layer_with_weights-84
+±	layer-139
+≤layer_with_weights-85
+≤	layer-140
+≥	layer-141
+¥	layer-142
+µlayer_with_weights-86
+µ	layer-143
+∂layer_with_weights-87
+∂	layer-144
+∑	layer-145
+∏layer_with_weights-88
+∏	layer-146
+πlayer_with_weights-89
+π	layer-147
+∫	layer-148
+ªlayer_with_weights-90
+ª	layer-149
+ºlayer_with_weights-91
+º	layer-150
+Ωlayer_with_weights-92
+Ω	layer-151
+ælayer_with_weights-93
+æ	layer-152
+ø	layer-153
+¿	layer-154
+¡layer_with_weights-94
+¡	layer-155
+¬layer_with_weights-95
+¬	layer-156
+√	layer-157
+ƒlayer_with_weights-96
+ƒ	layer-158
+≈layer_with_weights-97
+≈	layer-159
+∆	layer-160
+«layer_with_weights-98
+«	layer-161
+»layer_with_weights-99
+»	layer-162
+…	layer-163
+ 	layer-164
+Àlayer_with_weights-100
+À	layer-165
+Ãlayer_with_weights-101
+Ã	layer-166
+Õ	layer-167
+Œlayer_with_weights-102
+Œ	layer-168
+œlayer_with_weights-103
+œ	layer-169
+–	layer-170
+—layer_with_weights-104
+—	layer-171
+“layer_with_weights-105
+“	layer-172
+”	layer-173
+‘	layer-174
+
+’kernel
+	÷bias
+
+◊kernel
+	ÿbias
+
+Ÿkernel
+	⁄bias
+
+€kernel
+	‹bias
+
+›kernel
+	ﬁbias
+
+ﬂkernel
+	‡bias
+
+·kernel
+	‚bias
+
+„kernel
+	‰bias
+ 
+
+Âkernel
+	Êbias
+ 
+
+Ákernel
+	Ëbias
+ 
+
+Èkernel
+	Íbias
+ 
+
+Îkernel
+	Ïbias
+ 
+
+Ìkernel
+	Óbias
+
+Ôkernel
+	bias
+ 
+
+Òkernel
+	Úbias
+ 
+
+Ûkernel
+	Ùbias
+ 
+
+ıkernel
+	ˆbias
+ 
+
+˜kernel
+	¯bias
+*
+˘current_loss_scale
+˙
+good_steps
+ 
+NL
+VARIABLE_VALUEcond_1/SGD/iter)optimizer/iter/.ATTRIBUTES/VARIABLE_VALUE
+PN
+VARIABLE_VALUEcond_1/SGD/decay*optimizer/decay/.ATTRIBUTES/VARIABLE_VALUE
+VT
+VARIABLE_VALUEcond_1/SGD/momentum-optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+ 
+ 
+
+˚kernel
+	¸bias
+J
+	˝axis
+
+˛gamma
+	ˇbeta
+Ämoving_mean
+Åmoving_variance
+ 
+ 
+ 
+
+Çkernel
+	Ébias
+J
+	Ñaxis
+
+Ögamma
+	Übeta
+ámoving_mean
+àmoving_variance
+ 
+
+âkernel
+	äbias
+J
+	ãaxis
+
+ågamma
+	çbeta
+émoving_mean
+èmoving_variance
+ 
+
+êkernel
+	ëbias
+
+íkernel
+	ìbias
+J
+	îaxis
+
+ïgamma
+	ñbeta
+ómoving_mean
+òmoving_variance
+J
+	ôaxis
+
+ögamma
+	õbeta
+úmoving_mean
+ùmoving_variance
+ 
+ 
+
+ûkernel
+	übias
+J
+	†axis
+
+°gamma
+	¢beta
+£moving_mean
+§moving_variance
+ 
+
+•kernel
+	¶bias
+J
+	ßaxis
+
+®gamma
+	©beta
+™moving_mean
+´moving_variance
+ 
+
+¨kernel
+	≠bias
+J
+	Æaxis
+
+Øgamma
+	∞beta
+±moving_mean
+≤moving_variance
+ 
+ 
+
+≥kernel
+	¥bias
+J
+	µaxis
+
+∂gamma
+	∑beta
+∏moving_mean
+πmoving_variance
+ 
+
+∫kernel
+	ªbias
+J
+	ºaxis
+
+Ωgamma
+	æbeta
+ømoving_mean
+¿moving_variance
+ 
+
+¡kernel
+	¬bias
+J
+	√axis
+
+ƒgamma
+	≈beta
+∆moving_mean
+«moving_variance
+ 
+ 
+
+»kernel
+	…bias
+J
+	 axis
+
+Àgamma
+	Ãbeta
+Õmoving_mean
+Œmoving_variance
+ 
+
+œkernel
+	–bias
+J
+	—axis
+
+“gamma
+	”beta
+‘moving_mean
+’moving_variance
+ 
+
+÷kernel
+	◊bias
+
+ÿkernel
+	Ÿbias
+J
+	⁄axis
+
+€gamma
+	‹beta
+›moving_mean
+ﬁmoving_variance
+J
+	ﬂaxis
+
+‡gamma
+	·beta
+‚moving_mean
+„moving_variance
+ 
+ 
+
+‰kernel
+	Âbias
+J
+	Êaxis
+
+Ágamma
+	Ëbeta
+Èmoving_mean
+Ímoving_variance
+ 
+
+Îkernel
+	Ïbias
+J
+	Ìaxis
+
+Ógamma
+	Ôbeta
+moving_mean
+Òmoving_variance
+ 
+
+Úkernel
+	Ûbias
+J
+	Ùaxis
+
+ıgamma
+	ˆbeta
+˜moving_mean
+¯moving_variance
+ 
+ 
+
+˘kernel
+	˙bias
+J
+	˚axis
+
+¸gamma
+	˝beta
+˛moving_mean
+ˇmoving_variance
+ 
+
+Äkernel
+	Åbias
+J
+	Çaxis
+
+Égamma
+	Ñbeta
+Ömoving_mean
+Ümoving_variance
+ 
+
+ákernel
+	àbias
+J
+	âaxis
+
+ägamma
+	ãbeta
+åmoving_mean
+çmoving_variance
+ 
+ 
+
+ékernel
+	èbias
+J
+	êaxis
+
+ëgamma
+	íbeta
+ìmoving_mean
+îmoving_variance
+ 
+
+ïkernel
+	ñbias
+J
+	óaxis
+
+ògamma
+	ôbeta
+ömoving_mean
+õmoving_variance
+ 
+
+úkernel
+	ùbias
+J
+	ûaxis
+
+ügamma
+	†beta
+°moving_mean
+¢moving_variance
+ 
+ 
+
+£kernel
+	§bias
+J
+	•axis
+
+¶gamma
+	ßbeta
+®moving_mean
+©moving_variance
+ 
+
+™kernel
+	´bias
+J
+	¨axis
+
+≠gamma
+	Æbeta
+Ømoving_mean
+∞moving_variance
+ 
+
+±kernel
+	≤bias
+
+≥kernel
+	¥bias
+J
+	µaxis
+
+∂gamma
+	∑beta
+∏moving_mean
+πmoving_variance
+J
+	∫axis
+
+ªgamma
+	ºbeta
+Ωmoving_mean
+æmoving_variance
+ 
+ 
+
+økernel
+	¿bias
+J
+	¡axis
+
+¬gamma
+	√beta
+ƒmoving_mean
+≈moving_variance
+ 
+
+∆kernel
+	«bias
+J
+	»axis
+
+…gamma
+	 beta
+Àmoving_mean
+Ãmoving_variance
+ 
+
+Õkernel
+	Œbias
+J
+	œaxis
+
+–gamma
+	—beta
+“moving_mean
+”moving_variance
+ 
+ 
+
+‘kernel
+	’bias
+J
+	÷axis
+
+◊gamma
+	ÿbeta
+Ÿmoving_mean
+⁄moving_variance
+ 
+
+€kernel
+	‹bias
+J
+	›axis
+
+ﬁgamma
+	ﬂbeta
+‡moving_mean
+·moving_variance
+ 
+
+‚kernel
+	„bias
+J
+	‰axis
+
+Âgamma
+	Êbeta
+Ámoving_mean
+Ëmoving_variance
+ 
+ 
+
+Èkernel
+	Íbias
+J
+	Îaxis
+
+Ïgamma
+	Ìbeta
+Ómoving_mean
+Ômoving_variance
+ 
+
+kernel
+	Òbias
+J
+	Úaxis
+
+Ûgamma
+	Ùbeta
+ımoving_mean
+ˆmoving_variance
+ 
+
+˜kernel
+	¯bias
+J
+	˘axis
+
+˙gamma
+	˚beta
+¸moving_mean
+˝moving_variance
+ 
+ 
+
+˛kernel
+	ˇbias
+J
+	Äaxis
+
+Ågamma
+	Çbeta
+Émoving_mean
+Ñmoving_variance
+ 
+
+Ökernel
+	Übias
+J
+	áaxis
+
+àgamma
+	âbeta
+ämoving_mean
+ãmoving_variance
+ 
+
+åkernel
+	çbias
+J
+	éaxis
+
+ègamma
+	êbeta
+ëmoving_mean
+ímoving_variance
+ 
+ 
+
+ìkernel
+	îbias
+J
+	ïaxis
+
+ñgamma
+	óbeta
+òmoving_mean
+ômoving_variance
+ 
+
+ökernel
+	õbias
+J
+	úaxis
+
+ùgamma
+	ûbeta
+ümoving_mean
+†moving_variance
+ 
+
+°kernel
+	¢bias
+J
+	£axis
+
+§gamma
+	•beta
+¶moving_mean
+ßmoving_variance
+ 
+ 
+
+®kernel
+	©bias
+J
+	™axis
+
+´gamma
+	¨beta
+≠moving_mean
+Æmoving_variance
+ 
+
+Økernel
+	∞bias
+J
+	±axis
+
+≤gamma
+	≥beta
+¥moving_mean
+µmoving_variance
+ 
+
+∂kernel
+	∑bias
+
+∏kernel
+	πbias
+J
+	∫axis
+
+ªgamma
+	ºbeta
+Ωmoving_mean
+æmoving_variance
+J
+	øaxis
+
+¿gamma
+	¡beta
+¬moving_mean
+√moving_variance
+ 
+ 
+
+ƒkernel
+	≈bias
+J
+	∆axis
+
+«gamma
+	»beta
+…moving_mean
+ moving_variance
+ 
+
+Àkernel
+	Ãbias
+J
+	Õaxis
+
+Œgamma
+	œbeta
+–moving_mean
+—moving_variance
+ 
+
+“kernel
+	”bias
+J
+	‘axis
+
+’gamma
+	÷beta
+◊moving_mean
+ÿmoving_variance
+ 
+ 
+
+Ÿkernel
+	⁄bias
+J
+	€axis
+
+‹gamma
+	›beta
+ﬁmoving_mean
+ﬂmoving_variance
+ 
+
+‡kernel
+	·bias
+J
+	‚axis
+
+„gamma
+	‰beta
+Âmoving_mean
+Êmoving_variance
+ 
+
+Ákernel
+	Ëbias
+J
+	Èaxis
+
+Ígamma
+	Îbeta
+Ïmoving_mean
+Ìmoving_variance
+ 
+ 
+b`
+VARIABLE_VALUERetinaNet/FPN/conv2d/kernel1fpn/conv_c3_1x1/kernel/.ATTRIBUTES/VARIABLE_VALUE
+^\
+VARIABLE_VALUERetinaNet/FPN/conv2d/bias/fpn/conv_c3_1x1/bias/.ATTRIBUTES/VARIABLE_VALUE
+db
+VARIABLE_VALUERetinaNet/FPN/conv2d_1/kernel1fpn/conv_c4_1x1/kernel/.ATTRIBUTES/VARIABLE_VALUE
+`^
+VARIABLE_VALUERetinaNet/FPN/conv2d_1/bias/fpn/conv_c4_1x1/bias/.ATTRIBUTES/VARIABLE_VALUE
+db
+VARIABLE_VALUERetinaNet/FPN/conv2d_2/kernel1fpn/conv_c5_1x1/kernel/.ATTRIBUTES/VARIABLE_VALUE
+`^
+VARIABLE_VALUERetinaNet/FPN/conv2d_2/bias/fpn/conv_c5_1x1/bias/.ATTRIBUTES/VARIABLE_VALUE
+db
+VARIABLE_VALUERetinaNet/FPN/conv2d_3/kernel1fpn/conv_c3_3x3/kernel/.ATTRIBUTES/VARIABLE_VALUE
+`^
+VARIABLE_VALUERetinaNet/FPN/conv2d_3/bias/fpn/conv_c3_3x3/bias/.ATTRIBUTES/VARIABLE_VALUE
+db
+VARIABLE_VALUERetinaNet/FPN/conv2d_4/kernel1fpn/conv_c4_3x3/kernel/.ATTRIBUTES/VARIABLE_VALUE
+`^
+VARIABLE_VALUERetinaNet/FPN/conv2d_4/bias/fpn/conv_c4_3x3/bias/.ATTRIBUTES/VARIABLE_VALUE
+db
+VARIABLE_VALUERetinaNet/FPN/conv2d_5/kernel1fpn/conv_c5_3x3/kernel/.ATTRIBUTES/VARIABLE_VALUE
+`^
+VARIABLE_VALUERetinaNet/FPN/conv2d_5/bias/fpn/conv_c5_3x3/bias/.ATTRIBUTES/VARIABLE_VALUE
+db
+VARIABLE_VALUERetinaNet/FPN/conv2d_6/kernel1fpn/conv_c6_3x3/kernel/.ATTRIBUTES/VARIABLE_VALUE
+`^
+VARIABLE_VALUERetinaNet/FPN/conv2d_6/bias/fpn/conv_c6_3x3/bias/.ATTRIBUTES/VARIABLE_VALUE
+db
+VARIABLE_VALUERetinaNet/FPN/conv2d_7/kernel1fpn/conv_c7_3x3/kernel/.ATTRIBUTES/VARIABLE_VALUE
+`^
+VARIABLE_VALUERetinaNet/FPN/conv2d_7/bias/fpn/conv_c7_3x3/bias/.ATTRIBUTES/VARIABLE_VALUE
+db
+VARIABLE_VALUEconv2d_8/kernel?cls_head/layer_with_weights-0/kernel/.ATTRIBUTES/VARIABLE_VALUE
+`^
+VARIABLE_VALUEconv2d_8/bias=cls_head/layer_with_weights-0/bias/.ATTRIBUTES/VARIABLE_VALUE
+db
+VARIABLE_VALUEconv2d_9/kernel?cls_head/layer_with_weights-1/kernel/.ATTRIBUTES/VARIABLE_VALUE
+`^
+VARIABLE_VALUEconv2d_9/bias=cls_head/layer_with_weights-1/bias/.ATTRIBUTES/VARIABLE_VALUE
+ec
+VARIABLE_VALUEconv2d_10/kernel?cls_head/layer_with_weights-2/kernel/.ATTRIBUTES/VARIABLE_VALUE
+a_
+VARIABLE_VALUEconv2d_10/bias=cls_head/layer_with_weights-2/bias/.ATTRIBUTES/VARIABLE_VALUE
+ec
+VARIABLE_VALUEconv2d_11/kernel?cls_head/layer_with_weights-3/kernel/.ATTRIBUTES/VARIABLE_VALUE
+a_
+VARIABLE_VALUEconv2d_11/bias=cls_head/layer_with_weights-3/bias/.ATTRIBUTES/VARIABLE_VALUE
+ec
+VARIABLE_VALUEconv2d_12/kernel?cls_head/layer_with_weights-4/kernel/.ATTRIBUTES/VARIABLE_VALUE
+a_
+VARIABLE_VALUEconv2d_12/bias=cls_head/layer_with_weights-4/bias/.ATTRIBUTES/VARIABLE_VALUE
+ec
+VARIABLE_VALUEconv2d_13/kernel?box_head/layer_with_weights-0/kernel/.ATTRIBUTES/VARIABLE_VALUE
+a_
+VARIABLE_VALUEconv2d_13/bias=box_head/layer_with_weights-0/bias/.ATTRIBUTES/VARIABLE_VALUE
+ec
+VARIABLE_VALUEconv2d_14/kernel?box_head/layer_with_weights-1/kernel/.ATTRIBUTES/VARIABLE_VALUE
+a_
+VARIABLE_VALUEconv2d_14/bias=box_head/layer_with_weights-1/bias/.ATTRIBUTES/VARIABLE_VALUE
+ec
+VARIABLE_VALUEconv2d_15/kernel?box_head/layer_with_weights-2/kernel/.ATTRIBUTES/VARIABLE_VALUE
+a_
+VARIABLE_VALUEconv2d_15/bias=box_head/layer_with_weights-2/bias/.ATTRIBUTES/VARIABLE_VALUE
+ec
+VARIABLE_VALUEconv2d_16/kernel?box_head/layer_with_weights-3/kernel/.ATTRIBUTES/VARIABLE_VALUE
+a_
+VARIABLE_VALUEconv2d_16/bias=box_head/layer_with_weights-3/bias/.ATTRIBUTES/VARIABLE_VALUE
+ec
+VARIABLE_VALUEconv2d_17/kernel?box_head/layer_with_weights-4/kernel/.ATTRIBUTES/VARIABLE_VALUE
+a_
+VARIABLE_VALUEconv2d_17/bias=box_head/layer_with_weights-4/bias/.ATTRIBUTES/VARIABLE_VALUE
+jh
+VARIABLE_VALUEcurrent_loss_scaleBoptimizer/loss_scale/current_loss_scale/.ATTRIBUTES/VARIABLE_VALUE
+ZX
+VARIABLE_VALUE
+good_steps:optimizer/loss_scale/good_steps/.ATTRIBUTES/VARIABLE_VALUE
+jh
+VARIABLE_VALUEconv1_conv/kernelCfpn/backbone/layer_with_weights-0/kernel/.ATTRIBUTES/VARIABLE_VALUE
+fd
+VARIABLE_VALUEconv1_conv/biasAfpn/backbone/layer_with_weights-0/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+fd
+VARIABLE_VALUEconv1_bn/gammaBfpn/backbone/layer_with_weights-1/gamma/.ATTRIBUTES/VARIABLE_VALUE
+db
+VARIABLE_VALUEconv1_bn/betaAfpn/backbone/layer_with_weights-1/beta/.ATTRIBUTES/VARIABLE_VALUE
+rp
+VARIABLE_VALUEconv1_bn/moving_meanHfpn/backbone/layer_with_weights-1/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+zx
+VARIABLE_VALUEconv1_bn/moving_varianceLfpn/backbone/layer_with_weights-1/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+sq
+VARIABLE_VALUEconv2_block1_1_conv/kernelCfpn/backbone/layer_with_weights-2/kernel/.ATTRIBUTES/VARIABLE_VALUE
+om
+VARIABLE_VALUEconv2_block1_1_conv/biasAfpn/backbone/layer_with_weights-2/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+om
+VARIABLE_VALUEconv2_block1_1_bn/gammaBfpn/backbone/layer_with_weights-3/gamma/.ATTRIBUTES/VARIABLE_VALUE
+mk
+VARIABLE_VALUEconv2_block1_1_bn/betaAfpn/backbone/layer_with_weights-3/beta/.ATTRIBUTES/VARIABLE_VALUE
+{y
+VARIABLE_VALUEconv2_block1_1_bn/moving_meanHfpn/backbone/layer_with_weights-3/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÑÅ
+VARIABLE_VALUE!conv2_block1_1_bn/moving_varianceLfpn/backbone/layer_with_weights-3/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+sq
+VARIABLE_VALUEconv2_block1_2_conv/kernelCfpn/backbone/layer_with_weights-4/kernel/.ATTRIBUTES/VARIABLE_VALUE
+om
+VARIABLE_VALUEconv2_block1_2_conv/biasAfpn/backbone/layer_with_weights-4/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+om
+VARIABLE_VALUEconv2_block1_2_bn/gammaBfpn/backbone/layer_with_weights-5/gamma/.ATTRIBUTES/VARIABLE_VALUE
+mk
+VARIABLE_VALUEconv2_block1_2_bn/betaAfpn/backbone/layer_with_weights-5/beta/.ATTRIBUTES/VARIABLE_VALUE
+{y
+VARIABLE_VALUEconv2_block1_2_bn/moving_meanHfpn/backbone/layer_with_weights-5/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÑÅ
+VARIABLE_VALUE!conv2_block1_2_bn/moving_varianceLfpn/backbone/layer_with_weights-5/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+sq
+VARIABLE_VALUEconv2_block1_0_conv/kernelCfpn/backbone/layer_with_weights-6/kernel/.ATTRIBUTES/VARIABLE_VALUE
+om
+VARIABLE_VALUEconv2_block1_0_conv/biasAfpn/backbone/layer_with_weights-6/bias/.ATTRIBUTES/VARIABLE_VALUE
+sq
+VARIABLE_VALUEconv2_block1_3_conv/kernelCfpn/backbone/layer_with_weights-7/kernel/.ATTRIBUTES/VARIABLE_VALUE
+om
+VARIABLE_VALUEconv2_block1_3_conv/biasAfpn/backbone/layer_with_weights-7/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+om
+VARIABLE_VALUEconv2_block1_0_bn/gammaBfpn/backbone/layer_with_weights-8/gamma/.ATTRIBUTES/VARIABLE_VALUE
+mk
+VARIABLE_VALUEconv2_block1_0_bn/betaAfpn/backbone/layer_with_weights-8/beta/.ATTRIBUTES/VARIABLE_VALUE
+{y
+VARIABLE_VALUEconv2_block1_0_bn/moving_meanHfpn/backbone/layer_with_weights-8/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÑÅ
+VARIABLE_VALUE!conv2_block1_0_bn/moving_varianceLfpn/backbone/layer_with_weights-8/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+ 
+om
+VARIABLE_VALUEconv2_block1_3_bn/gammaBfpn/backbone/layer_with_weights-9/gamma/.ATTRIBUTES/VARIABLE_VALUE
+mk
+VARIABLE_VALUEconv2_block1_3_bn/betaAfpn/backbone/layer_with_weights-9/beta/.ATTRIBUTES/VARIABLE_VALUE
+{y
+VARIABLE_VALUEconv2_block1_3_bn/moving_meanHfpn/backbone/layer_with_weights-9/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÑÅ
+VARIABLE_VALUE!conv2_block1_3_bn/moving_varianceLfpn/backbone/layer_with_weights-9/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv2_block2_1_conv/kernelDfpn/backbone/layer_with_weights-10/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv2_block2_1_conv/biasBfpn/backbone/layer_with_weights-10/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv2_block2_1_bn/gammaCfpn/backbone/layer_with_weights-11/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv2_block2_1_bn/betaBfpn/backbone/layer_with_weights-11/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv2_block2_1_bn/moving_meanIfpn/backbone/layer_with_weights-11/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv2_block2_1_bn/moving_varianceMfpn/backbone/layer_with_weights-11/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv2_block2_2_conv/kernelDfpn/backbone/layer_with_weights-12/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv2_block2_2_conv/biasBfpn/backbone/layer_with_weights-12/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv2_block2_2_bn/gammaCfpn/backbone/layer_with_weights-13/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv2_block2_2_bn/betaBfpn/backbone/layer_with_weights-13/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv2_block2_2_bn/moving_meanIfpn/backbone/layer_with_weights-13/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv2_block2_2_bn/moving_varianceMfpn/backbone/layer_with_weights-13/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv2_block2_3_conv/kernelDfpn/backbone/layer_with_weights-14/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv2_block2_3_conv/biasBfpn/backbone/layer_with_weights-14/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv2_block2_3_bn/gammaCfpn/backbone/layer_with_weights-15/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv2_block2_3_bn/betaBfpn/backbone/layer_with_weights-15/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv2_block2_3_bn/moving_meanIfpn/backbone/layer_with_weights-15/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv2_block2_3_bn/moving_varianceMfpn/backbone/layer_with_weights-15/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv2_block3_1_conv/kernelDfpn/backbone/layer_with_weights-16/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv2_block3_1_conv/biasBfpn/backbone/layer_with_weights-16/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv2_block3_1_bn/gammaCfpn/backbone/layer_with_weights-17/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv2_block3_1_bn/betaBfpn/backbone/layer_with_weights-17/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv2_block3_1_bn/moving_meanIfpn/backbone/layer_with_weights-17/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv2_block3_1_bn/moving_varianceMfpn/backbone/layer_with_weights-17/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv2_block3_2_conv/kernelDfpn/backbone/layer_with_weights-18/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv2_block3_2_conv/biasBfpn/backbone/layer_with_weights-18/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv2_block3_2_bn/gammaCfpn/backbone/layer_with_weights-19/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv2_block3_2_bn/betaBfpn/backbone/layer_with_weights-19/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv2_block3_2_bn/moving_meanIfpn/backbone/layer_with_weights-19/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv2_block3_2_bn/moving_varianceMfpn/backbone/layer_with_weights-19/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv2_block3_3_conv/kernelDfpn/backbone/layer_with_weights-20/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv2_block3_3_conv/biasBfpn/backbone/layer_with_weights-20/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv2_block3_3_bn/gammaCfpn/backbone/layer_with_weights-21/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv2_block3_3_bn/betaBfpn/backbone/layer_with_weights-21/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv2_block3_3_bn/moving_meanIfpn/backbone/layer_with_weights-21/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv2_block3_3_bn/moving_varianceMfpn/backbone/layer_with_weights-21/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv3_block1_1_conv/kernelDfpn/backbone/layer_with_weights-22/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv3_block1_1_conv/biasBfpn/backbone/layer_with_weights-22/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv3_block1_1_bn/gammaCfpn/backbone/layer_with_weights-23/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv3_block1_1_bn/betaBfpn/backbone/layer_with_weights-23/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv3_block1_1_bn/moving_meanIfpn/backbone/layer_with_weights-23/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv3_block1_1_bn/moving_varianceMfpn/backbone/layer_with_weights-23/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv3_block1_2_conv/kernelDfpn/backbone/layer_with_weights-24/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv3_block1_2_conv/biasBfpn/backbone/layer_with_weights-24/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv3_block1_2_bn/gammaCfpn/backbone/layer_with_weights-25/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv3_block1_2_bn/betaBfpn/backbone/layer_with_weights-25/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv3_block1_2_bn/moving_meanIfpn/backbone/layer_with_weights-25/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv3_block1_2_bn/moving_varianceMfpn/backbone/layer_with_weights-25/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv3_block1_0_conv/kernelDfpn/backbone/layer_with_weights-26/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv3_block1_0_conv/biasBfpn/backbone/layer_with_weights-26/bias/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv3_block1_3_conv/kernelDfpn/backbone/layer_with_weights-27/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv3_block1_3_conv/biasBfpn/backbone/layer_with_weights-27/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv3_block1_0_bn/gammaCfpn/backbone/layer_with_weights-28/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv3_block1_0_bn/betaBfpn/backbone/layer_with_weights-28/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv3_block1_0_bn/moving_meanIfpn/backbone/layer_with_weights-28/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv3_block1_0_bn/moving_varianceMfpn/backbone/layer_with_weights-28/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv3_block1_3_bn/gammaCfpn/backbone/layer_with_weights-29/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv3_block1_3_bn/betaBfpn/backbone/layer_with_weights-29/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv3_block1_3_bn/moving_meanIfpn/backbone/layer_with_weights-29/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv3_block1_3_bn/moving_varianceMfpn/backbone/layer_with_weights-29/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv3_block2_1_conv/kernelDfpn/backbone/layer_with_weights-30/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv3_block2_1_conv/biasBfpn/backbone/layer_with_weights-30/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv3_block2_1_bn/gammaCfpn/backbone/layer_with_weights-31/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv3_block2_1_bn/betaBfpn/backbone/layer_with_weights-31/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv3_block2_1_bn/moving_meanIfpn/backbone/layer_with_weights-31/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv3_block2_1_bn/moving_varianceMfpn/backbone/layer_with_weights-31/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv3_block2_2_conv/kernelDfpn/backbone/layer_with_weights-32/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv3_block2_2_conv/biasBfpn/backbone/layer_with_weights-32/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv3_block2_2_bn/gammaCfpn/backbone/layer_with_weights-33/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv3_block2_2_bn/betaBfpn/backbone/layer_with_weights-33/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv3_block2_2_bn/moving_meanIfpn/backbone/layer_with_weights-33/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv3_block2_2_bn/moving_varianceMfpn/backbone/layer_with_weights-33/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv3_block2_3_conv/kernelDfpn/backbone/layer_with_weights-34/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv3_block2_3_conv/biasBfpn/backbone/layer_with_weights-34/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv3_block2_3_bn/gammaCfpn/backbone/layer_with_weights-35/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv3_block2_3_bn/betaBfpn/backbone/layer_with_weights-35/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv3_block2_3_bn/moving_meanIfpn/backbone/layer_with_weights-35/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv3_block2_3_bn/moving_varianceMfpn/backbone/layer_with_weights-35/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv3_block3_1_conv/kernelDfpn/backbone/layer_with_weights-36/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv3_block3_1_conv/biasBfpn/backbone/layer_with_weights-36/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv3_block3_1_bn/gammaCfpn/backbone/layer_with_weights-37/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv3_block3_1_bn/betaBfpn/backbone/layer_with_weights-37/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv3_block3_1_bn/moving_meanIfpn/backbone/layer_with_weights-37/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv3_block3_1_bn/moving_varianceMfpn/backbone/layer_with_weights-37/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv3_block3_2_conv/kernelDfpn/backbone/layer_with_weights-38/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv3_block3_2_conv/biasBfpn/backbone/layer_with_weights-38/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv3_block3_2_bn/gammaCfpn/backbone/layer_with_weights-39/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv3_block3_2_bn/betaBfpn/backbone/layer_with_weights-39/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv3_block3_2_bn/moving_meanIfpn/backbone/layer_with_weights-39/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv3_block3_2_bn/moving_varianceMfpn/backbone/layer_with_weights-39/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv3_block3_3_conv/kernelDfpn/backbone/layer_with_weights-40/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv3_block3_3_conv/biasBfpn/backbone/layer_with_weights-40/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv3_block3_3_bn/gammaCfpn/backbone/layer_with_weights-41/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv3_block3_3_bn/betaBfpn/backbone/layer_with_weights-41/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv3_block3_3_bn/moving_meanIfpn/backbone/layer_with_weights-41/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv3_block3_3_bn/moving_varianceMfpn/backbone/layer_with_weights-41/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv3_block4_1_conv/kernelDfpn/backbone/layer_with_weights-42/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv3_block4_1_conv/biasBfpn/backbone/layer_with_weights-42/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv3_block4_1_bn/gammaCfpn/backbone/layer_with_weights-43/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv3_block4_1_bn/betaBfpn/backbone/layer_with_weights-43/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv3_block4_1_bn/moving_meanIfpn/backbone/layer_with_weights-43/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv3_block4_1_bn/moving_varianceMfpn/backbone/layer_with_weights-43/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv3_block4_2_conv/kernelDfpn/backbone/layer_with_weights-44/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv3_block4_2_conv/biasBfpn/backbone/layer_with_weights-44/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv3_block4_2_bn/gammaCfpn/backbone/layer_with_weights-45/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv3_block4_2_bn/betaBfpn/backbone/layer_with_weights-45/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv3_block4_2_bn/moving_meanIfpn/backbone/layer_with_weights-45/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv3_block4_2_bn/moving_varianceMfpn/backbone/layer_with_weights-45/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv3_block4_3_conv/kernelDfpn/backbone/layer_with_weights-46/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv3_block4_3_conv/biasBfpn/backbone/layer_with_weights-46/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv3_block4_3_bn/gammaCfpn/backbone/layer_with_weights-47/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv3_block4_3_bn/betaBfpn/backbone/layer_with_weights-47/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv3_block4_3_bn/moving_meanIfpn/backbone/layer_with_weights-47/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv3_block4_3_bn/moving_varianceMfpn/backbone/layer_with_weights-47/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv4_block1_1_conv/kernelDfpn/backbone/layer_with_weights-48/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv4_block1_1_conv/biasBfpn/backbone/layer_with_weights-48/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv4_block1_1_bn/gammaCfpn/backbone/layer_with_weights-49/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv4_block1_1_bn/betaBfpn/backbone/layer_with_weights-49/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv4_block1_1_bn/moving_meanIfpn/backbone/layer_with_weights-49/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv4_block1_1_bn/moving_varianceMfpn/backbone/layer_with_weights-49/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv4_block1_2_conv/kernelDfpn/backbone/layer_with_weights-50/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv4_block1_2_conv/biasBfpn/backbone/layer_with_weights-50/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv4_block1_2_bn/gammaCfpn/backbone/layer_with_weights-51/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv4_block1_2_bn/betaBfpn/backbone/layer_with_weights-51/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv4_block1_2_bn/moving_meanIfpn/backbone/layer_with_weights-51/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv4_block1_2_bn/moving_varianceMfpn/backbone/layer_with_weights-51/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv4_block1_0_conv/kernelDfpn/backbone/layer_with_weights-52/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv4_block1_0_conv/biasBfpn/backbone/layer_with_weights-52/bias/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv4_block1_3_conv/kernelDfpn/backbone/layer_with_weights-53/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv4_block1_3_conv/biasBfpn/backbone/layer_with_weights-53/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv4_block1_0_bn/gammaCfpn/backbone/layer_with_weights-54/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv4_block1_0_bn/betaBfpn/backbone/layer_with_weights-54/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv4_block1_0_bn/moving_meanIfpn/backbone/layer_with_weights-54/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv4_block1_0_bn/moving_varianceMfpn/backbone/layer_with_weights-54/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv4_block1_3_bn/gammaCfpn/backbone/layer_with_weights-55/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv4_block1_3_bn/betaBfpn/backbone/layer_with_weights-55/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv4_block1_3_bn/moving_meanIfpn/backbone/layer_with_weights-55/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv4_block1_3_bn/moving_varianceMfpn/backbone/layer_with_weights-55/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv4_block2_1_conv/kernelDfpn/backbone/layer_with_weights-56/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv4_block2_1_conv/biasBfpn/backbone/layer_with_weights-56/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv4_block2_1_bn/gammaCfpn/backbone/layer_with_weights-57/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv4_block2_1_bn/betaBfpn/backbone/layer_with_weights-57/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv4_block2_1_bn/moving_meanIfpn/backbone/layer_with_weights-57/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv4_block2_1_bn/moving_varianceMfpn/backbone/layer_with_weights-57/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv4_block2_2_conv/kernelDfpn/backbone/layer_with_weights-58/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv4_block2_2_conv/biasBfpn/backbone/layer_with_weights-58/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv4_block2_2_bn/gammaCfpn/backbone/layer_with_weights-59/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv4_block2_2_bn/betaBfpn/backbone/layer_with_weights-59/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv4_block2_2_bn/moving_meanIfpn/backbone/layer_with_weights-59/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv4_block2_2_bn/moving_varianceMfpn/backbone/layer_with_weights-59/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv4_block2_3_conv/kernelDfpn/backbone/layer_with_weights-60/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv4_block2_3_conv/biasBfpn/backbone/layer_with_weights-60/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv4_block2_3_bn/gammaCfpn/backbone/layer_with_weights-61/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv4_block2_3_bn/betaBfpn/backbone/layer_with_weights-61/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv4_block2_3_bn/moving_meanIfpn/backbone/layer_with_weights-61/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv4_block2_3_bn/moving_varianceMfpn/backbone/layer_with_weights-61/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv4_block3_1_conv/kernelDfpn/backbone/layer_with_weights-62/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv4_block3_1_conv/biasBfpn/backbone/layer_with_weights-62/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv4_block3_1_bn/gammaCfpn/backbone/layer_with_weights-63/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv4_block3_1_bn/betaBfpn/backbone/layer_with_weights-63/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv4_block3_1_bn/moving_meanIfpn/backbone/layer_with_weights-63/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv4_block3_1_bn/moving_varianceMfpn/backbone/layer_with_weights-63/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv4_block3_2_conv/kernelDfpn/backbone/layer_with_weights-64/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv4_block3_2_conv/biasBfpn/backbone/layer_with_weights-64/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv4_block3_2_bn/gammaCfpn/backbone/layer_with_weights-65/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv4_block3_2_bn/betaBfpn/backbone/layer_with_weights-65/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv4_block3_2_bn/moving_meanIfpn/backbone/layer_with_weights-65/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv4_block3_2_bn/moving_varianceMfpn/backbone/layer_with_weights-65/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv4_block3_3_conv/kernelDfpn/backbone/layer_with_weights-66/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv4_block3_3_conv/biasBfpn/backbone/layer_with_weights-66/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv4_block3_3_bn/gammaCfpn/backbone/layer_with_weights-67/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv4_block3_3_bn/betaBfpn/backbone/layer_with_weights-67/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv4_block3_3_bn/moving_meanIfpn/backbone/layer_with_weights-67/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv4_block3_3_bn/moving_varianceMfpn/backbone/layer_with_weights-67/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv4_block4_1_conv/kernelDfpn/backbone/layer_with_weights-68/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv4_block4_1_conv/biasBfpn/backbone/layer_with_weights-68/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv4_block4_1_bn/gammaCfpn/backbone/layer_with_weights-69/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv4_block4_1_bn/betaBfpn/backbone/layer_with_weights-69/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv4_block4_1_bn/moving_meanIfpn/backbone/layer_with_weights-69/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv4_block4_1_bn/moving_varianceMfpn/backbone/layer_with_weights-69/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv4_block4_2_conv/kernelDfpn/backbone/layer_with_weights-70/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv4_block4_2_conv/biasBfpn/backbone/layer_with_weights-70/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv4_block4_2_bn/gammaCfpn/backbone/layer_with_weights-71/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv4_block4_2_bn/betaBfpn/backbone/layer_with_weights-71/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv4_block4_2_bn/moving_meanIfpn/backbone/layer_with_weights-71/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv4_block4_2_bn/moving_varianceMfpn/backbone/layer_with_weights-71/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv4_block4_3_conv/kernelDfpn/backbone/layer_with_weights-72/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv4_block4_3_conv/biasBfpn/backbone/layer_with_weights-72/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv4_block4_3_bn/gammaCfpn/backbone/layer_with_weights-73/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv4_block4_3_bn/betaBfpn/backbone/layer_with_weights-73/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv4_block4_3_bn/moving_meanIfpn/backbone/layer_with_weights-73/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv4_block4_3_bn/moving_varianceMfpn/backbone/layer_with_weights-73/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv4_block5_1_conv/kernelDfpn/backbone/layer_with_weights-74/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv4_block5_1_conv/biasBfpn/backbone/layer_with_weights-74/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv4_block5_1_bn/gammaCfpn/backbone/layer_with_weights-75/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv4_block5_1_bn/betaBfpn/backbone/layer_with_weights-75/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv4_block5_1_bn/moving_meanIfpn/backbone/layer_with_weights-75/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv4_block5_1_bn/moving_varianceMfpn/backbone/layer_with_weights-75/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv4_block5_2_conv/kernelDfpn/backbone/layer_with_weights-76/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv4_block5_2_conv/biasBfpn/backbone/layer_with_weights-76/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv4_block5_2_bn/gammaCfpn/backbone/layer_with_weights-77/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv4_block5_2_bn/betaBfpn/backbone/layer_with_weights-77/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv4_block5_2_bn/moving_meanIfpn/backbone/layer_with_weights-77/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv4_block5_2_bn/moving_varianceMfpn/backbone/layer_with_weights-77/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv4_block5_3_conv/kernelDfpn/backbone/layer_with_weights-78/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv4_block5_3_conv/biasBfpn/backbone/layer_with_weights-78/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv4_block5_3_bn/gammaCfpn/backbone/layer_with_weights-79/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv4_block5_3_bn/betaBfpn/backbone/layer_with_weights-79/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv4_block5_3_bn/moving_meanIfpn/backbone/layer_with_weights-79/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv4_block5_3_bn/moving_varianceMfpn/backbone/layer_with_weights-79/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv4_block6_1_conv/kernelDfpn/backbone/layer_with_weights-80/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv4_block6_1_conv/biasBfpn/backbone/layer_with_weights-80/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv4_block6_1_bn/gammaCfpn/backbone/layer_with_weights-81/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv4_block6_1_bn/betaBfpn/backbone/layer_with_weights-81/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv4_block6_1_bn/moving_meanIfpn/backbone/layer_with_weights-81/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv4_block6_1_bn/moving_varianceMfpn/backbone/layer_with_weights-81/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv4_block6_2_conv/kernelDfpn/backbone/layer_with_weights-82/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv4_block6_2_conv/biasBfpn/backbone/layer_with_weights-82/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv4_block6_2_bn/gammaCfpn/backbone/layer_with_weights-83/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv4_block6_2_bn/betaBfpn/backbone/layer_with_weights-83/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv4_block6_2_bn/moving_meanIfpn/backbone/layer_with_weights-83/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv4_block6_2_bn/moving_varianceMfpn/backbone/layer_with_weights-83/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv4_block6_3_conv/kernelDfpn/backbone/layer_with_weights-84/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv4_block6_3_conv/biasBfpn/backbone/layer_with_weights-84/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv4_block6_3_bn/gammaCfpn/backbone/layer_with_weights-85/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv4_block6_3_bn/betaBfpn/backbone/layer_with_weights-85/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv4_block6_3_bn/moving_meanIfpn/backbone/layer_with_weights-85/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv4_block6_3_bn/moving_varianceMfpn/backbone/layer_with_weights-85/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv5_block1_1_conv/kernelDfpn/backbone/layer_with_weights-86/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv5_block1_1_conv/biasBfpn/backbone/layer_with_weights-86/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv5_block1_1_bn/gammaCfpn/backbone/layer_with_weights-87/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv5_block1_1_bn/betaBfpn/backbone/layer_with_weights-87/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv5_block1_1_bn/moving_meanIfpn/backbone/layer_with_weights-87/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv5_block1_1_bn/moving_varianceMfpn/backbone/layer_with_weights-87/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv5_block1_2_conv/kernelDfpn/backbone/layer_with_weights-88/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv5_block1_2_conv/biasBfpn/backbone/layer_with_weights-88/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv5_block1_2_bn/gammaCfpn/backbone/layer_with_weights-89/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv5_block1_2_bn/betaBfpn/backbone/layer_with_weights-89/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv5_block1_2_bn/moving_meanIfpn/backbone/layer_with_weights-89/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv5_block1_2_bn/moving_varianceMfpn/backbone/layer_with_weights-89/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv5_block1_0_conv/kernelDfpn/backbone/layer_with_weights-90/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv5_block1_0_conv/biasBfpn/backbone/layer_with_weights-90/bias/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv5_block1_3_conv/kernelDfpn/backbone/layer_with_weights-91/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv5_block1_3_conv/biasBfpn/backbone/layer_with_weights-91/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv5_block1_0_bn/gammaCfpn/backbone/layer_with_weights-92/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv5_block1_0_bn/betaBfpn/backbone/layer_with_weights-92/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv5_block1_0_bn/moving_meanIfpn/backbone/layer_with_weights-92/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv5_block1_0_bn/moving_varianceMfpn/backbone/layer_with_weights-92/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv5_block1_3_bn/gammaCfpn/backbone/layer_with_weights-93/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv5_block1_3_bn/betaBfpn/backbone/layer_with_weights-93/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv5_block1_3_bn/moving_meanIfpn/backbone/layer_with_weights-93/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv5_block1_3_bn/moving_varianceMfpn/backbone/layer_with_weights-93/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv5_block2_1_conv/kernelDfpn/backbone/layer_with_weights-94/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv5_block2_1_conv/biasBfpn/backbone/layer_with_weights-94/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv5_block2_1_bn/gammaCfpn/backbone/layer_with_weights-95/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv5_block2_1_bn/betaBfpn/backbone/layer_with_weights-95/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv5_block2_1_bn/moving_meanIfpn/backbone/layer_with_weights-95/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv5_block2_1_bn/moving_varianceMfpn/backbone/layer_with_weights-95/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv5_block2_2_conv/kernelDfpn/backbone/layer_with_weights-96/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv5_block2_2_conv/biasBfpn/backbone/layer_with_weights-96/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv5_block2_2_bn/gammaCfpn/backbone/layer_with_weights-97/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv5_block2_2_bn/betaBfpn/backbone/layer_with_weights-97/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv5_block2_2_bn/moving_meanIfpn/backbone/layer_with_weights-97/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv5_block2_2_bn/moving_varianceMfpn/backbone/layer_with_weights-97/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUEconv5_block2_3_conv/kernelDfpn/backbone/layer_with_weights-98/kernel/.ATTRIBUTES/VARIABLE_VALUE
+pn
+VARIABLE_VALUEconv5_block2_3_conv/biasBfpn/backbone/layer_with_weights-98/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+pn
+VARIABLE_VALUEconv5_block2_3_bn/gammaCfpn/backbone/layer_with_weights-99/gamma/.ATTRIBUTES/VARIABLE_VALUE
+nl
+VARIABLE_VALUEconv5_block2_3_bn/betaBfpn/backbone/layer_with_weights-99/beta/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUEconv5_block2_3_bn/moving_meanIfpn/backbone/layer_with_weights-99/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÖÇ
+VARIABLE_VALUE!conv5_block2_3_bn/moving_varianceMfpn/backbone/layer_with_weights-99/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+us
+VARIABLE_VALUEconv5_block3_1_conv/kernelEfpn/backbone/layer_with_weights-100/kernel/.ATTRIBUTES/VARIABLE_VALUE
+qo
+VARIABLE_VALUEconv5_block3_1_conv/biasCfpn/backbone/layer_with_weights-100/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+qo
+VARIABLE_VALUEconv5_block3_1_bn/gammaDfpn/backbone/layer_with_weights-101/gamma/.ATTRIBUTES/VARIABLE_VALUE
+om
+VARIABLE_VALUEconv5_block3_1_bn/betaCfpn/backbone/layer_with_weights-101/beta/.ATTRIBUTES/VARIABLE_VALUE
+}{
+VARIABLE_VALUEconv5_block3_1_bn/moving_meanJfpn/backbone/layer_with_weights-101/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÜÉ
+VARIABLE_VALUE!conv5_block3_1_bn/moving_varianceNfpn/backbone/layer_with_weights-101/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+us
+VARIABLE_VALUEconv5_block3_2_conv/kernelEfpn/backbone/layer_with_weights-102/kernel/.ATTRIBUTES/VARIABLE_VALUE
+qo
+VARIABLE_VALUEconv5_block3_2_conv/biasCfpn/backbone/layer_with_weights-102/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+qo
+VARIABLE_VALUEconv5_block3_2_bn/gammaDfpn/backbone/layer_with_weights-103/gamma/.ATTRIBUTES/VARIABLE_VALUE
+om
+VARIABLE_VALUEconv5_block3_2_bn/betaCfpn/backbone/layer_with_weights-103/beta/.ATTRIBUTES/VARIABLE_VALUE
+}{
+VARIABLE_VALUEconv5_block3_2_bn/moving_meanJfpn/backbone/layer_with_weights-103/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÜÉ
+VARIABLE_VALUE!conv5_block3_2_bn/moving_varianceNfpn/backbone/layer_with_weights-103/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+us
+VARIABLE_VALUEconv5_block3_3_conv/kernelEfpn/backbone/layer_with_weights-104/kernel/.ATTRIBUTES/VARIABLE_VALUE
+qo
+VARIABLE_VALUEconv5_block3_3_conv/biasCfpn/backbone/layer_with_weights-104/bias/.ATTRIBUTES/VARIABLE_VALUE
+ 
+qo
+VARIABLE_VALUEconv5_block3_3_bn/gammaDfpn/backbone/layer_with_weights-105/gamma/.ATTRIBUTES/VARIABLE_VALUE
+om
+VARIABLE_VALUEconv5_block3_3_bn/betaCfpn/backbone/layer_with_weights-105/beta/.ATTRIBUTES/VARIABLE_VALUE
+}{
+VARIABLE_VALUEconv5_block3_3_bn/moving_meanJfpn/backbone/layer_with_weights-105/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+ÜÉ
+VARIABLE_VALUE!conv5_block3_3_bn/moving_varianceNfpn/backbone/layer_with_weights-105/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+öó
+VARIABLE_VALUE/cond_1/SGD/RetinaNet/FPN/conv2d/kernel/momentumTfpn/conv_c3_1x1/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+ñì
+VARIABLE_VALUE-cond_1/SGD/RetinaNet/FPN/conv2d/bias/momentumRfpn/conv_c3_1x1/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+úô
+VARIABLE_VALUE1cond_1/SGD/RetinaNet/FPN/conv2d_1/kernel/momentumTfpn/conv_c4_1x1/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+òï
+VARIABLE_VALUE/cond_1/SGD/RetinaNet/FPN/conv2d_1/bias/momentumRfpn/conv_c4_1x1/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+úô
+VARIABLE_VALUE1cond_1/SGD/RetinaNet/FPN/conv2d_2/kernel/momentumTfpn/conv_c5_1x1/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+òï
+VARIABLE_VALUE/cond_1/SGD/RetinaNet/FPN/conv2d_2/bias/momentumRfpn/conv_c5_1x1/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+úô
+VARIABLE_VALUE1cond_1/SGD/RetinaNet/FPN/conv2d_3/kernel/momentumTfpn/conv_c3_3x3/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+òï
+VARIABLE_VALUE/cond_1/SGD/RetinaNet/FPN/conv2d_3/bias/momentumRfpn/conv_c3_3x3/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+úô
+VARIABLE_VALUE1cond_1/SGD/RetinaNet/FPN/conv2d_4/kernel/momentumTfpn/conv_c4_3x3/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+òï
+VARIABLE_VALUE/cond_1/SGD/RetinaNet/FPN/conv2d_4/bias/momentumRfpn/conv_c4_3x3/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+úô
+VARIABLE_VALUE1cond_1/SGD/RetinaNet/FPN/conv2d_5/kernel/momentumTfpn/conv_c5_3x3/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+òï
+VARIABLE_VALUE/cond_1/SGD/RetinaNet/FPN/conv2d_5/bias/momentumRfpn/conv_c5_3x3/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+úô
+VARIABLE_VALUE1cond_1/SGD/RetinaNet/FPN/conv2d_6/kernel/momentumTfpn/conv_c6_3x3/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+òï
+VARIABLE_VALUE/cond_1/SGD/RetinaNet/FPN/conv2d_6/bias/momentumRfpn/conv_c6_3x3/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+úô
+VARIABLE_VALUE1cond_1/SGD/RetinaNet/FPN/conv2d_7/kernel/momentumTfpn/conv_c7_3x3/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+òï
+VARIABLE_VALUE/cond_1/SGD/RetinaNet/FPN/conv2d_7/bias/momentumRfpn/conv_c7_3x3/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+úô
+VARIABLE_VALUE#cond_1/SGD/conv2d_8/kernel/momentumbcls_head/layer_with_weights-0/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+òï
+VARIABLE_VALUE!cond_1/SGD/conv2d_8/bias/momentum`cls_head/layer_with_weights-0/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+úô
+VARIABLE_VALUE#cond_1/SGD/conv2d_9/kernel/momentumbcls_head/layer_with_weights-1/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+òï
+VARIABLE_VALUE!cond_1/SGD/conv2d_9/bias/momentum`cls_head/layer_with_weights-1/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+ùö
+VARIABLE_VALUE$cond_1/SGD/conv2d_10/kernel/momentumbcls_head/layer_with_weights-2/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+ôñ
+VARIABLE_VALUE"cond_1/SGD/conv2d_10/bias/momentum`cls_head/layer_with_weights-2/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+ùö
+VARIABLE_VALUE$cond_1/SGD/conv2d_11/kernel/momentumbcls_head/layer_with_weights-3/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+ôñ
+VARIABLE_VALUE"cond_1/SGD/conv2d_11/bias/momentum`cls_head/layer_with_weights-3/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+ùö
+VARIABLE_VALUE$cond_1/SGD/conv2d_12/kernel/momentumbcls_head/layer_with_weights-4/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+ôñ
+VARIABLE_VALUE"cond_1/SGD/conv2d_12/bias/momentum`cls_head/layer_with_weights-4/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+ùö
+VARIABLE_VALUE$cond_1/SGD/conv2d_13/kernel/momentumbbox_head/layer_with_weights-0/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+ôñ
+VARIABLE_VALUE"cond_1/SGD/conv2d_13/bias/momentum`box_head/layer_with_weights-0/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+ùö
+VARIABLE_VALUE$cond_1/SGD/conv2d_14/kernel/momentumbbox_head/layer_with_weights-1/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+ôñ
+VARIABLE_VALUE"cond_1/SGD/conv2d_14/bias/momentum`box_head/layer_with_weights-1/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+ùö
+VARIABLE_VALUE$cond_1/SGD/conv2d_15/kernel/momentumbbox_head/layer_with_weights-2/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+ôñ
+VARIABLE_VALUE"cond_1/SGD/conv2d_15/bias/momentum`box_head/layer_with_weights-2/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+ùö
+VARIABLE_VALUE$cond_1/SGD/conv2d_16/kernel/momentumbbox_head/layer_with_weights-3/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+ôñ
+VARIABLE_VALUE"cond_1/SGD/conv2d_16/bias/momentum`box_head/layer_with_weights-3/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+ùö
+VARIABLE_VALUE$cond_1/SGD/conv2d_17/kernel/momentumbbox_head/layer_with_weights-4/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+ôñ
+VARIABLE_VALUE"cond_1/SGD/conv2d_17/bias/momentum`box_head/layer_with_weights-4/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¢ü
+VARIABLE_VALUE%cond_1/SGD/conv1_conv/kernel/momentumffpn/backbone/layer_with_weights-0/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+ûõ
+VARIABLE_VALUE#cond_1/SGD/conv1_conv/bias/momentumdfpn/backbone/layer_with_weights-0/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+ûõ
+VARIABLE_VALUE"cond_1/SGD/conv1_bn/gamma/momentumefpn/backbone/layer_with_weights-1/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+úô
+VARIABLE_VALUE!cond_1/SGD/conv1_bn/beta/momentumdfpn/backbone/layer_with_weights-1/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+´®
+VARIABLE_VALUE.cond_1/SGD/conv2_block1_1_conv/kernel/momentumffpn/backbone/layer_with_weights-2/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+ß§
+VARIABLE_VALUE,cond_1/SGD/conv2_block1_1_conv/bias/momentumdfpn/backbone/layer_with_weights-2/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+ß§
+VARIABLE_VALUE+cond_1/SGD/conv2_block1_1_bn/gamma/momentumefpn/backbone/layer_with_weights-3/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+•¢
+VARIABLE_VALUE*cond_1/SGD/conv2_block1_1_bn/beta/momentumdfpn/backbone/layer_with_weights-3/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+´®
+VARIABLE_VALUE.cond_1/SGD/conv2_block1_2_conv/kernel/momentumffpn/backbone/layer_with_weights-4/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+ß§
+VARIABLE_VALUE,cond_1/SGD/conv2_block1_2_conv/bias/momentumdfpn/backbone/layer_with_weights-4/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+ß§
+VARIABLE_VALUE+cond_1/SGD/conv2_block1_2_bn/gamma/momentumefpn/backbone/layer_with_weights-5/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+•¢
+VARIABLE_VALUE*cond_1/SGD/conv2_block1_2_bn/beta/momentumdfpn/backbone/layer_with_weights-5/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+´®
+VARIABLE_VALUE.cond_1/SGD/conv2_block1_0_conv/kernel/momentumffpn/backbone/layer_with_weights-6/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+ß§
+VARIABLE_VALUE,cond_1/SGD/conv2_block1_0_conv/bias/momentumdfpn/backbone/layer_with_weights-6/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+´®
+VARIABLE_VALUE.cond_1/SGD/conv2_block1_3_conv/kernel/momentumffpn/backbone/layer_with_weights-7/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+ß§
+VARIABLE_VALUE,cond_1/SGD/conv2_block1_3_conv/bias/momentumdfpn/backbone/layer_with_weights-7/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+ß§
+VARIABLE_VALUE+cond_1/SGD/conv2_block1_0_bn/gamma/momentumefpn/backbone/layer_with_weights-8/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+•¢
+VARIABLE_VALUE*cond_1/SGD/conv2_block1_0_bn/beta/momentumdfpn/backbone/layer_with_weights-8/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+ß§
+VARIABLE_VALUE+cond_1/SGD/conv2_block1_3_bn/gamma/momentumefpn/backbone/layer_with_weights-9/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+•¢
+VARIABLE_VALUE*cond_1/SGD/conv2_block1_3_bn/beta/momentumdfpn/backbone/layer_with_weights-9/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv2_block2_1_conv/kernel/momentumgfpn/backbone/layer_with_weights-10/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv2_block2_1_conv/bias/momentumefpn/backbone/layer_with_weights-10/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv2_block2_1_bn/gamma/momentumffpn/backbone/layer_with_weights-11/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv2_block2_1_bn/beta/momentumefpn/backbone/layer_with_weights-11/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv2_block2_2_conv/kernel/momentumgfpn/backbone/layer_with_weights-12/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv2_block2_2_conv/bias/momentumefpn/backbone/layer_with_weights-12/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv2_block2_2_bn/gamma/momentumffpn/backbone/layer_with_weights-13/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv2_block2_2_bn/beta/momentumefpn/backbone/layer_with_weights-13/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv2_block2_3_conv/kernel/momentumgfpn/backbone/layer_with_weights-14/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv2_block2_3_conv/bias/momentumefpn/backbone/layer_with_weights-14/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv2_block2_3_bn/gamma/momentumffpn/backbone/layer_with_weights-15/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv2_block2_3_bn/beta/momentumefpn/backbone/layer_with_weights-15/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv2_block3_1_conv/kernel/momentumgfpn/backbone/layer_with_weights-16/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv2_block3_1_conv/bias/momentumefpn/backbone/layer_with_weights-16/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv2_block3_1_bn/gamma/momentumffpn/backbone/layer_with_weights-17/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv2_block3_1_bn/beta/momentumefpn/backbone/layer_with_weights-17/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv2_block3_2_conv/kernel/momentumgfpn/backbone/layer_with_weights-18/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv2_block3_2_conv/bias/momentumefpn/backbone/layer_with_weights-18/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv2_block3_2_bn/gamma/momentumffpn/backbone/layer_with_weights-19/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv2_block3_2_bn/beta/momentumefpn/backbone/layer_with_weights-19/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv2_block3_3_conv/kernel/momentumgfpn/backbone/layer_with_weights-20/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv2_block3_3_conv/bias/momentumefpn/backbone/layer_with_weights-20/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv2_block3_3_bn/gamma/momentumffpn/backbone/layer_with_weights-21/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv2_block3_3_bn/beta/momentumefpn/backbone/layer_with_weights-21/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv3_block1_1_conv/kernel/momentumgfpn/backbone/layer_with_weights-22/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv3_block1_1_conv/bias/momentumefpn/backbone/layer_with_weights-22/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv3_block1_1_bn/gamma/momentumffpn/backbone/layer_with_weights-23/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv3_block1_1_bn/beta/momentumefpn/backbone/layer_with_weights-23/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv3_block1_2_conv/kernel/momentumgfpn/backbone/layer_with_weights-24/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv3_block1_2_conv/bias/momentumefpn/backbone/layer_with_weights-24/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv3_block1_2_bn/gamma/momentumffpn/backbone/layer_with_weights-25/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv3_block1_2_bn/beta/momentumefpn/backbone/layer_with_weights-25/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv3_block1_0_conv/kernel/momentumgfpn/backbone/layer_with_weights-26/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv3_block1_0_conv/bias/momentumefpn/backbone/layer_with_weights-26/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv3_block1_3_conv/kernel/momentumgfpn/backbone/layer_with_weights-27/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv3_block1_3_conv/bias/momentumefpn/backbone/layer_with_weights-27/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv3_block1_0_bn/gamma/momentumffpn/backbone/layer_with_weights-28/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv3_block1_0_bn/beta/momentumefpn/backbone/layer_with_weights-28/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv3_block1_3_bn/gamma/momentumffpn/backbone/layer_with_weights-29/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv3_block1_3_bn/beta/momentumefpn/backbone/layer_with_weights-29/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv3_block2_1_conv/kernel/momentumgfpn/backbone/layer_with_weights-30/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv3_block2_1_conv/bias/momentumefpn/backbone/layer_with_weights-30/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv3_block2_1_bn/gamma/momentumffpn/backbone/layer_with_weights-31/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv3_block2_1_bn/beta/momentumefpn/backbone/layer_with_weights-31/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv3_block2_2_conv/kernel/momentumgfpn/backbone/layer_with_weights-32/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv3_block2_2_conv/bias/momentumefpn/backbone/layer_with_weights-32/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv3_block2_2_bn/gamma/momentumffpn/backbone/layer_with_weights-33/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv3_block2_2_bn/beta/momentumefpn/backbone/layer_with_weights-33/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv3_block2_3_conv/kernel/momentumgfpn/backbone/layer_with_weights-34/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv3_block2_3_conv/bias/momentumefpn/backbone/layer_with_weights-34/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv3_block2_3_bn/gamma/momentumffpn/backbone/layer_with_weights-35/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv3_block2_3_bn/beta/momentumefpn/backbone/layer_with_weights-35/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv3_block3_1_conv/kernel/momentumgfpn/backbone/layer_with_weights-36/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv3_block3_1_conv/bias/momentumefpn/backbone/layer_with_weights-36/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv3_block3_1_bn/gamma/momentumffpn/backbone/layer_with_weights-37/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv3_block3_1_bn/beta/momentumefpn/backbone/layer_with_weights-37/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv3_block3_2_conv/kernel/momentumgfpn/backbone/layer_with_weights-38/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv3_block3_2_conv/bias/momentumefpn/backbone/layer_with_weights-38/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv3_block3_2_bn/gamma/momentumffpn/backbone/layer_with_weights-39/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv3_block3_2_bn/beta/momentumefpn/backbone/layer_with_weights-39/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv3_block3_3_conv/kernel/momentumgfpn/backbone/layer_with_weights-40/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv3_block3_3_conv/bias/momentumefpn/backbone/layer_with_weights-40/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv3_block3_3_bn/gamma/momentumffpn/backbone/layer_with_weights-41/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv3_block3_3_bn/beta/momentumefpn/backbone/layer_with_weights-41/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv3_block4_1_conv/kernel/momentumgfpn/backbone/layer_with_weights-42/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv3_block4_1_conv/bias/momentumefpn/backbone/layer_with_weights-42/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv3_block4_1_bn/gamma/momentumffpn/backbone/layer_with_weights-43/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv3_block4_1_bn/beta/momentumefpn/backbone/layer_with_weights-43/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv3_block4_2_conv/kernel/momentumgfpn/backbone/layer_with_weights-44/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv3_block4_2_conv/bias/momentumefpn/backbone/layer_with_weights-44/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv3_block4_2_bn/gamma/momentumffpn/backbone/layer_with_weights-45/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv3_block4_2_bn/beta/momentumefpn/backbone/layer_with_weights-45/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv3_block4_3_conv/kernel/momentumgfpn/backbone/layer_with_weights-46/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv3_block4_3_conv/bias/momentumefpn/backbone/layer_with_weights-46/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv3_block4_3_bn/gamma/momentumffpn/backbone/layer_with_weights-47/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv3_block4_3_bn/beta/momentumefpn/backbone/layer_with_weights-47/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv4_block1_1_conv/kernel/momentumgfpn/backbone/layer_with_weights-48/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv4_block1_1_conv/bias/momentumefpn/backbone/layer_with_weights-48/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv4_block1_1_bn/gamma/momentumffpn/backbone/layer_with_weights-49/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv4_block1_1_bn/beta/momentumefpn/backbone/layer_with_weights-49/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv4_block1_2_conv/kernel/momentumgfpn/backbone/layer_with_weights-50/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv4_block1_2_conv/bias/momentumefpn/backbone/layer_with_weights-50/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv4_block1_2_bn/gamma/momentumffpn/backbone/layer_with_weights-51/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv4_block1_2_bn/beta/momentumefpn/backbone/layer_with_weights-51/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv4_block1_0_conv/kernel/momentumgfpn/backbone/layer_with_weights-52/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv4_block1_0_conv/bias/momentumefpn/backbone/layer_with_weights-52/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv4_block1_3_conv/kernel/momentumgfpn/backbone/layer_with_weights-53/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv4_block1_3_conv/bias/momentumefpn/backbone/layer_with_weights-53/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv4_block1_0_bn/gamma/momentumffpn/backbone/layer_with_weights-54/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv4_block1_0_bn/beta/momentumefpn/backbone/layer_with_weights-54/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv4_block1_3_bn/gamma/momentumffpn/backbone/layer_with_weights-55/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv4_block1_3_bn/beta/momentumefpn/backbone/layer_with_weights-55/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv4_block2_1_conv/kernel/momentumgfpn/backbone/layer_with_weights-56/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv4_block2_1_conv/bias/momentumefpn/backbone/layer_with_weights-56/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv4_block2_1_bn/gamma/momentumffpn/backbone/layer_with_weights-57/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv4_block2_1_bn/beta/momentumefpn/backbone/layer_with_weights-57/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv4_block2_2_conv/kernel/momentumgfpn/backbone/layer_with_weights-58/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv4_block2_2_conv/bias/momentumefpn/backbone/layer_with_weights-58/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv4_block2_2_bn/gamma/momentumffpn/backbone/layer_with_weights-59/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv4_block2_2_bn/beta/momentumefpn/backbone/layer_with_weights-59/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv4_block2_3_conv/kernel/momentumgfpn/backbone/layer_with_weights-60/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv4_block2_3_conv/bias/momentumefpn/backbone/layer_with_weights-60/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv4_block2_3_bn/gamma/momentumffpn/backbone/layer_with_weights-61/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv4_block2_3_bn/beta/momentumefpn/backbone/layer_with_weights-61/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv4_block3_1_conv/kernel/momentumgfpn/backbone/layer_with_weights-62/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv4_block3_1_conv/bias/momentumefpn/backbone/layer_with_weights-62/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv4_block3_1_bn/gamma/momentumffpn/backbone/layer_with_weights-63/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv4_block3_1_bn/beta/momentumefpn/backbone/layer_with_weights-63/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv4_block3_2_conv/kernel/momentumgfpn/backbone/layer_with_weights-64/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv4_block3_2_conv/bias/momentumefpn/backbone/layer_with_weights-64/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv4_block3_2_bn/gamma/momentumffpn/backbone/layer_with_weights-65/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv4_block3_2_bn/beta/momentumefpn/backbone/layer_with_weights-65/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv4_block3_3_conv/kernel/momentumgfpn/backbone/layer_with_weights-66/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv4_block3_3_conv/bias/momentumefpn/backbone/layer_with_weights-66/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv4_block3_3_bn/gamma/momentumffpn/backbone/layer_with_weights-67/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv4_block3_3_bn/beta/momentumefpn/backbone/layer_with_weights-67/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv4_block4_1_conv/kernel/momentumgfpn/backbone/layer_with_weights-68/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv4_block4_1_conv/bias/momentumefpn/backbone/layer_with_weights-68/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv4_block4_1_bn/gamma/momentumffpn/backbone/layer_with_weights-69/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv4_block4_1_bn/beta/momentumefpn/backbone/layer_with_weights-69/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv4_block4_2_conv/kernel/momentumgfpn/backbone/layer_with_weights-70/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv4_block4_2_conv/bias/momentumefpn/backbone/layer_with_weights-70/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv4_block4_2_bn/gamma/momentumffpn/backbone/layer_with_weights-71/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv4_block4_2_bn/beta/momentumefpn/backbone/layer_with_weights-71/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv4_block4_3_conv/kernel/momentumgfpn/backbone/layer_with_weights-72/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv4_block4_3_conv/bias/momentumefpn/backbone/layer_with_weights-72/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv4_block4_3_bn/gamma/momentumffpn/backbone/layer_with_weights-73/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv4_block4_3_bn/beta/momentumefpn/backbone/layer_with_weights-73/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv4_block5_1_conv/kernel/momentumgfpn/backbone/layer_with_weights-74/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv4_block5_1_conv/bias/momentumefpn/backbone/layer_with_weights-74/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv4_block5_1_bn/gamma/momentumffpn/backbone/layer_with_weights-75/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv4_block5_1_bn/beta/momentumefpn/backbone/layer_with_weights-75/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv4_block5_2_conv/kernel/momentumgfpn/backbone/layer_with_weights-76/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv4_block5_2_conv/bias/momentumefpn/backbone/layer_with_weights-76/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv4_block5_2_bn/gamma/momentumffpn/backbone/layer_with_weights-77/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv4_block5_2_bn/beta/momentumefpn/backbone/layer_with_weights-77/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv4_block5_3_conv/kernel/momentumgfpn/backbone/layer_with_weights-78/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv4_block5_3_conv/bias/momentumefpn/backbone/layer_with_weights-78/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv4_block5_3_bn/gamma/momentumffpn/backbone/layer_with_weights-79/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv4_block5_3_bn/beta/momentumefpn/backbone/layer_with_weights-79/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv4_block6_1_conv/kernel/momentumgfpn/backbone/layer_with_weights-80/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv4_block6_1_conv/bias/momentumefpn/backbone/layer_with_weights-80/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv4_block6_1_bn/gamma/momentumffpn/backbone/layer_with_weights-81/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv4_block6_1_bn/beta/momentumefpn/backbone/layer_with_weights-81/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv4_block6_2_conv/kernel/momentumgfpn/backbone/layer_with_weights-82/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv4_block6_2_conv/bias/momentumefpn/backbone/layer_with_weights-82/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv4_block6_2_bn/gamma/momentumffpn/backbone/layer_with_weights-83/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv4_block6_2_bn/beta/momentumefpn/backbone/layer_with_weights-83/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv4_block6_3_conv/kernel/momentumgfpn/backbone/layer_with_weights-84/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv4_block6_3_conv/bias/momentumefpn/backbone/layer_with_weights-84/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv4_block6_3_bn/gamma/momentumffpn/backbone/layer_with_weights-85/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv4_block6_3_bn/beta/momentumefpn/backbone/layer_with_weights-85/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv5_block1_1_conv/kernel/momentumgfpn/backbone/layer_with_weights-86/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv5_block1_1_conv/bias/momentumefpn/backbone/layer_with_weights-86/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv5_block1_1_bn/gamma/momentumffpn/backbone/layer_with_weights-87/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv5_block1_1_bn/beta/momentumefpn/backbone/layer_with_weights-87/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv5_block1_2_conv/kernel/momentumgfpn/backbone/layer_with_weights-88/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv5_block1_2_conv/bias/momentumefpn/backbone/layer_with_weights-88/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv5_block1_2_bn/gamma/momentumffpn/backbone/layer_with_weights-89/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv5_block1_2_bn/beta/momentumefpn/backbone/layer_with_weights-89/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv5_block1_0_conv/kernel/momentumgfpn/backbone/layer_with_weights-90/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv5_block1_0_conv/bias/momentumefpn/backbone/layer_with_weights-90/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv5_block1_3_conv/kernel/momentumgfpn/backbone/layer_with_weights-91/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv5_block1_3_conv/bias/momentumefpn/backbone/layer_with_weights-91/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv5_block1_0_bn/gamma/momentumffpn/backbone/layer_with_weights-92/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv5_block1_0_bn/beta/momentumefpn/backbone/layer_with_weights-92/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv5_block1_3_bn/gamma/momentumffpn/backbone/layer_with_weights-93/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv5_block1_3_bn/beta/momentumefpn/backbone/layer_with_weights-93/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv5_block2_1_conv/kernel/momentumgfpn/backbone/layer_with_weights-94/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv5_block2_1_conv/bias/momentumefpn/backbone/layer_with_weights-94/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv5_block2_1_bn/gamma/momentumffpn/backbone/layer_with_weights-95/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv5_block2_1_bn/beta/momentumefpn/backbone/layer_with_weights-95/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv5_block2_2_conv/kernel/momentumgfpn/backbone/layer_with_weights-96/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv5_block2_2_conv/bias/momentumefpn/backbone/layer_with_weights-96/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv5_block2_2_bn/gamma/momentumffpn/backbone/layer_with_weights-97/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv5_block2_2_bn/beta/momentumefpn/backbone/layer_with_weights-97/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¨©
+VARIABLE_VALUE.cond_1/SGD/conv5_block2_3_conv/kernel/momentumgfpn/backbone/layer_with_weights-98/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE,cond_1/SGD/conv5_block2_3_conv/bias/momentumefpn/backbone/layer_with_weights-98/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+®•
+VARIABLE_VALUE+cond_1/SGD/conv5_block2_3_bn/gamma/momentumffpn/backbone/layer_with_weights-99/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+¶£
+VARIABLE_VALUE*cond_1/SGD/conv5_block2_3_bn/beta/momentumefpn/backbone/layer_with_weights-99/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+≠™
+VARIABLE_VALUE.cond_1/SGD/conv5_block3_1_conv/kernel/momentumhfpn/backbone/layer_with_weights-100/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+©¶
+VARIABLE_VALUE,cond_1/SGD/conv5_block3_1_conv/bias/momentumffpn/backbone/layer_with_weights-100/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+©¶
+VARIABLE_VALUE+cond_1/SGD/conv5_block3_1_bn/gamma/momentumgfpn/backbone/layer_with_weights-101/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+ß§
+VARIABLE_VALUE*cond_1/SGD/conv5_block3_1_bn/beta/momentumffpn/backbone/layer_with_weights-101/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+≠™
+VARIABLE_VALUE.cond_1/SGD/conv5_block3_2_conv/kernel/momentumhfpn/backbone/layer_with_weights-102/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+©¶
+VARIABLE_VALUE,cond_1/SGD/conv5_block3_2_conv/bias/momentumffpn/backbone/layer_with_weights-102/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+©¶
+VARIABLE_VALUE+cond_1/SGD/conv5_block3_2_bn/gamma/momentumgfpn/backbone/layer_with_weights-103/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+ß§
+VARIABLE_VALUE*cond_1/SGD/conv5_block3_2_bn/beta/momentumffpn/backbone/layer_with_weights-103/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+≠™
+VARIABLE_VALUE.cond_1/SGD/conv5_block3_3_conv/kernel/momentumhfpn/backbone/layer_with_weights-104/kernel/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+©¶
+VARIABLE_VALUE,cond_1/SGD/conv5_block3_3_conv/bias/momentumffpn/backbone/layer_with_weights-104/bias/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+©¶
+VARIABLE_VALUE+cond_1/SGD/conv5_block3_3_bn/gamma/momentumgfpn/backbone/layer_with_weights-105/gamma/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+ß§
+VARIABLE_VALUE*cond_1/SGD/conv5_block3_3_bn/beta/momentumffpn/backbone/layer_with_weights-105/beta/.OPTIMIZER_SLOT/optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE

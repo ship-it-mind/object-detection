@@ -1,0 +1,9 @@
+Flask
+requests
+gunicorn
+tensorflow==2.3.0
+Keras==2.4.3
+cloudpickle
+tensorflow_datasets
+matplotlib
+opencv-python
